@@ -134,8 +134,8 @@ nav a {
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   margin: 1rem auto;
-  width: 95%;
-  max-width: 48rem;
+  width: 100%%;
+  max-width: 100rem;
   background: #e6bc54;
 }
 .flex--child {
