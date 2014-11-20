@@ -103,6 +103,8 @@ nav a {
 }
 
 .bio img {
+	border-radius: 50%;
+	overflow:hidden;
 	width: 30%;
 	float:center;
 	margin-left:35%;
@@ -147,14 +149,12 @@ h5{
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   margin: 1rem auto;
-  width: 100%%;
+  width: 100%;
   max-width: 100rem;
   background: #e6bc54;
 }
 .flex--child {
-  -webkit-flex: 1 1 18rem;
-      -ms-flex: 1 1 18rem;
-          flex: 1 1 18rem;
+  width: 100%;
 }
 .flex--child img {
   display: block;
