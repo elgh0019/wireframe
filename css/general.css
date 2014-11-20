@@ -97,18 +97,31 @@ nav a {
 }	
 
 /* --------------------------------------------------------------------- Content2 */
-
 #content2 {
-	background-color: #333;	
+	background-color: #666;	
 	overflow: hidden;
-	text-align-last:right
 }
 
 .bio img {
 	width: 30%;
-	float:left;
+	float:center;
+	margin-left:35%;
+	margin-bottom: 1%;
+	
+}
 
-	}
+h5{
+	font-family: font-family: 'Muli', sans-serif;
+	font-size: 3rem;
+	font-style:normal;
+	color:#000;
+	text-align:left;
+	margin-top:0%;
+	margin-bottom:30px;
+	margin-left:40.5%;
+}
+
+	
 
 /* --------------------------------------------------------------------- Content3 */
 
